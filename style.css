@@ -39,6 +39,9 @@ ul{
     .importante{
         color: red;
         background-color: blueviolet;
+        &:hover{
+            background-color: beige;
+        }
     }
     &:hover{
         background-color: aquamarine;
