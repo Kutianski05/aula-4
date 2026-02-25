@@ -10,3 +10,6 @@ p {
 .destaque {
     background-color: yellow;
 }
+* {
+    margin: 0;
+}
