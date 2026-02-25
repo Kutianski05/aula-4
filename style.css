@@ -2,8 +2,9 @@ p {
     color: blue;
 }
 
-#titulo {
+#titulo-principal{
     color: red;
+    font-size: 32px;
 }
 
 .destaque {
