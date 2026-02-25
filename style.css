@@ -1,0 +1,11 @@
+p {
+    color: blue;
+}
+
+#titulo {
+    color: red;
+}
+
+.destaque {
+    background-color: yellow;
+}
