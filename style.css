@@ -38,3 +38,7 @@ button[type="submit"]:hover{
 p::first-letter{
     font-size: 25px;
 }
+
+li:first-child{
+    font-weight: bold;
+}
