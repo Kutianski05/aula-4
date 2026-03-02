@@ -29,3 +29,7 @@ button[type="submit"]{
 button[type="submit"]:hover{
     background-color: blueviolet;
 }
+
+.container > div > p {
+    color: red;
+}
