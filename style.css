@@ -16,3 +16,7 @@ p {
 .destaque{
     background: yellow;
 }
+
+input[type ="password"] {
+    border-color: blue;
+}
