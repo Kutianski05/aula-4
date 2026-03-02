@@ -1,49 +1,7 @@
-* {
-    margin: 10px;
-}
-
 p {
-    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #titulo-principal{
-    color: red;
-    font-size: 32px;
-}
-
-.destaque {
-    background-color: yellow;
-}
-
-div p{
-    color: green;
-}
-
-div > p{
-    color: purple;
-}
-
-input[type="text"]{
-    border: 2px solid blue;
-}
-li:first-child{
-    color: red;
-}
-p::first-letter{
-    font-size: 26px;
-}
-
-ul{
-    margin: 5px;
-    
-    .importante{
-        color: red;
-        background-color: blueviolet;
-        &:hover{
-            background-color: beige;
-        }
-    }
-    &:hover{
-        background-color: aquamarine;
-    }
+    color: blue;
 }
