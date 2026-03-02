@@ -20,3 +20,12 @@ p {
 input[type ="password"] {
     border-color: blue;
 }
+
+button[type="submit"]{
+    background-color: pink;
+}
+
+
+button[type="submit"]:hover{
+    background-color: blueviolet;
+}
