@@ -6,6 +6,13 @@ p {
     color: blue;
 }
 
+
 .importante {
     background-color: red;
+}
+
+
+
+.destaque{
+    background: yellow;
 }
